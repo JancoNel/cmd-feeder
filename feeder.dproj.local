@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/05/05 14:09:25.000.605,=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 14:13:48.000.290,C:\Users\Administrator\Desktop\code\delphi\cmd feeder\main.dfm=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/05/05 14:13:48.000.290,C:\Users\Administrator\Desktop\code\delphi\cmd feeder\main.pas=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 14:13:56.000.045,C:\Users\Administrator\Desktop\code\delphi\cmd feeder\feeder.dproj=C:\Users\Administrator\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/05/05 15:36:43.000.520,=C:\Users\Administrator\Desktop\code\delphi\cmd feeder\Unit1.pas</Transaction>
+    <Transaction>2024/05/05 15:37:35.000.485,C:\Users\Administrator\Desktop\code\delphi\cmd feeder\Unit1.dfm=C:\Users\Administrator\Desktop\code\delphi\cmd feeder\mem.dfm</Transaction>
+    <Transaction>2024/05/05 15:37:35.000.485,C:\Users\Administrator\Desktop\code\delphi\cmd feeder\Unit1.pas=C:\Users\Administrator\Desktop\code\delphi\cmd feeder\mem.pas</Transaction>
+    <Transaction>2024/05/05 15:37:47.000.139,C:\Users\Administrator\Desktop\code\delphi\cmd feeder\mem.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
